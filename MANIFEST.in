@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include kavin *.css
+recursive-include kavin *.csv
+recursive-include kavin *.html
+recursive-include kavin *.ico
+recursive-include kavin *.js
+recursive-include kavin *.json
+recursive-include kavin *.md
+recursive-include kavin *.png
+recursive-include kavin *.py
+recursive-include kavin *.svg
+recursive-include kavin *.txt
+recursive-exclude kavin *.pyc
