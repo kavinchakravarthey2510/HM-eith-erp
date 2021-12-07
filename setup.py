@@ -9,9 +9,9 @@ from kavin import __version__ as version
 setup(
 	name="kavin",
 	version=version,
-	description="Hotel Management",
-	author="Kavin",
-	author_email="kavin355@gmail.com",
+	description="kavin",
+	author="kavin",
+	author_email="kavin",
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,

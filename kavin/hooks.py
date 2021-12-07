@@ -1,12 +1,12 @@
 from . import __version__ as app_version
 
 app_name = "kavin"
-app_title = "Kavin Hotel"
-app_publisher = "Kavin"
-app_description = "Hotel Management"
+app_title = "Kavin"
+app_publisher = "kavin"
+app_description = "kavin"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "kavin355@gmail.com"
+app_email = "kavin"
 app_license = "MIT"
 
 # Includes in <head>

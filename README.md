@@ -1,6 +1,6 @@
-## Kavin Hotel
+## Kavin
 
-Hotel Management
+kavin
 
 #### License
 
